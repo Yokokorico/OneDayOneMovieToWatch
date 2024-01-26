@@ -7,10 +7,6 @@
     }
 }  
 
-.nav{
-  gap: 50px;
-}
-
 .navbar-brand{
   padding-left: 20px;
   font-size: 35px;
@@ -18,9 +14,18 @@
 
 .navbar-link{
   font-family: 'Oswald', sans-serif;
+  gap: 50px;
 }
 
 .navbar-button{
   padding-right: 20px;
   font-family: 'Oswald', sans-serif;
+}
+
+.text-font{
+  font-family: 'Oswald', sans-serif;
+}
+
+.font-size-low{
+  font-size: smaller;
 }
