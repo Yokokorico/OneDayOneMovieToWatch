@@ -6,3 +6,21 @@
       max-width: 100%;
     }
 }  
+
+.nav{
+  gap: 50px;
+}
+
+.navbar-brand{
+  padding-left: 20px;
+  font-size: 35px;
+}
+
+.navbar-link{
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar-button{
+  padding-right: 20px;
+  font-family: 'Oswald', sans-serif;
+}
